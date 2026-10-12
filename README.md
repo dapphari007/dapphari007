@@ -63,18 +63,6 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=dapphari007&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dapphari007&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Activity" />
-</p>
-
 ## 🤝 Connect with Me
 
 <p align="center">
